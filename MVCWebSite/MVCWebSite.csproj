@@ -176,6 +176,9 @@
     <Content Include="Content\login\style.css" />
     <Content Include="Content\main\ball.css" />
     <Content Include="Content\main\main.css" />
+    <Content Include="Content\register\reg.css" />
+    <Content Include="Content\ssc\bet.css" />
+    <Content Include="Content\ssc\g_SSC.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -268,6 +271,23 @@
     <Content Include="Images\main\support.png" />
     <Content Include="Images\main\table_headerbg.gif" />
     <Content Include="Images\main\top_bg.png" />
+    <Content Include="Images\register\cp_index_logo.png" />
+    <Content Include="Images\register\ico_reg.gif" />
+    <Content Include="Images\register\reg_bg.jpg" />
+    <Content Include="Images\register\reg_bu.jpg" />
+    <Content Include="Images\register\reg_headbg.jpg" />
+    <Content Include="Images\register\reg_line.gif" />
+    <Content Include="Images\register\reg_navbg.jpg" />
+    <Content Include="Images\ssc\ball_2.png" />
+    <Content Include="Images\ssc\hong_bg.png" />
+    <Content Include="Images\ssc\huang_bg.png" />
+    <Content Include="Images\ssc\right_bg4.png" />
+    <Content Include="Images\ssc\tab1.png" />
+    <Content Include="Images\ssc\tab2.png" />
+    <Content Include="Images\ssc\tab4.png" />
+    <Content Include="Images\ssc\tab_bg10.png" />
+    <Content Include="Images\ssc\text_input.gif" />
+    <Content Include="Images\ssc\title_bg.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -324,6 +344,8 @@
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Agreement.cshtml" />
     <Content Include="Views\Home\Main.cshtml" />
+    <Content Include="Views\Home\SSC.cshtml" />
+    <Content Include="Views\Home\Register.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

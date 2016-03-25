@@ -32,9 +32,19 @@ namespace MVCWebSite.Controllers
             return View();
         }
 
+        public ActionResult Register()
+        {
+            return View();
+        }
+
         public ActionResult Main()
         {
             return View();
+        }
+
+        public ActionResult SSC()
+        {
+            return PartialView("SSC");
         }
 
         public ActionResult Contact()
